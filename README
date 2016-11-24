@@ -1,6 +1,8 @@
 CMU Sphinx common libraries
 ===============================================================================
 
+Forked from cmusphinx/sphinxbase, at https://github.com/cmusphinx/sphinxbase
+
 This package contains the basic libraries shared by the CMU Sphinx trainer and
 all the Sphinx decoders (Sphinx-II, Sphinx-III, and PocketSphinx), as well as
 some common utilities for manipulating acoustic feature and audio files.
